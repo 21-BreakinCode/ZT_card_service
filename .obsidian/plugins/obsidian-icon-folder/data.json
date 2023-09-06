@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabDocker",
+      "IbDatabse",
+      "LiPenTool",
+      "TiPrompt",
+      "LiBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "01. RawCards": "TiCards",
+  "02. NoteBox": "LiBoxSelect",
+  "02. NoteBox/by_project": "RiFireLine",
+  "02. NoteBox/by_source": "FarComment",
+  "02. NoteBox/by_tags": "LiTag",
+  "02. NoteBox/canva": "RiArtboard2Line",
+  "03. Layout": "RiEditBoxLine",
+  "99. Template": "TiCopy",
+  "02. NoteBox/excalidraw": "LiPenTool",
+  "02. NoteBox/by_source/致富心態.md": "RiBookLine",
+  "02. NoteBox/by_source/System Design.md": "IbDatabse",
+  "02. NoteBox/by_source/python.md": "TiBrandPython",
+  "02. NoteBox/by_source/PE.md": "TiPrompt",
+  "02. NoteBox/by_source/obsidian.md": "SiObsidian",
+  "02. NoteBox/by_source/再也沒有難談的事.md": "LiBook",
+  "02. NoteBox/by_source/JavaScript.md": "SiJavascript",
+  "02. NoteBox/by_source/Container.md": "FabDocker"
+}
