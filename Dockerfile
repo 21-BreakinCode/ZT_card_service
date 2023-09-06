@@ -10,4 +10,6 @@ ENV PYTHONUNBUFFERED 1
 
 RUN pip install -r ./src/requirements.txt
 
+EXPOSE  80
+
 CMD ["uvicorn", "--app-dir", "src", "main:app", "--host", "0.0.0.0"]
